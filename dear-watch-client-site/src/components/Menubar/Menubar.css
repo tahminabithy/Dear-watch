@@ -1,0 +1,11 @@
+.text-style{
+    color: cyan;
+    font-family: 'Zen Antique Soft', serif;
+}
+
+.text-style:hover{
+    color:darkcyan;
+}
+.icon{
+    font-family: 'Yuji Boku', serif;
+}

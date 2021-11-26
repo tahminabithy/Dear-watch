@@ -1,0 +1,10 @@
+
+
+.home-banner{
+ background-image: url("../../../src/image/banner1.jpg");;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 600px;
+}

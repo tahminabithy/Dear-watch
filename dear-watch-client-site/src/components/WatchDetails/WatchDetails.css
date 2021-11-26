@@ -1,0 +1,11 @@
+.brand-style{
+    font-family: 'Ubuntu', sans-serif;
+    color:rgb(166, 166, 235);
+}
+.underline{   
+        border-bottom:grey 1px solid;
+        width: 300px;  
+        text-align: center;
+}
+
+
